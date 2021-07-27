@@ -1,0 +1,15 @@
+why the app is useful/why the app is needed
+features of the app:  
+screens in the app
+why the app is needed?
+the app is needed because in lockdown a lot of people have been losing there imunity and children are not able to study
+so we are bulding this app where u can get your course for all classes and even have a 2nd screen where you can have 
+exercises based on your diet and routin and you can even enter how much you ate and it will calculate the calories 
+and tell you how much calories you ate and will have goales for you to compleat and will suggust you exercies after you 
+have completed your exercies and it will have the course even for boards with a login screen so you dont lose your 
+id and progress 
+screens:
+we will be having a bunch of screens to like loginscreen,exercisescreen,goalsscreen,studyscreen 
+features:
+1)it will be having syllabus for class 10 and class 12 
+2)it will be dowmloadable and will suggest that if you dont understand the it then you can see this video
